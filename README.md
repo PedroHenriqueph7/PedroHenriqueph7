@@ -1,4 +1,3 @@
-# Pedro Henrique
 
 Olá me chamo Pedro, tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, e apaixonado por tecnologia.
 
