@@ -1,5 +1,6 @@
 ## Seja Bem Vindo ao meu Github
 Olá me chamo Pedro Henrique, tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, e apaixonado por tecnologia.
+Atualmente, estou focado na programação backend com Java
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pedro-henrique-8a0023287)
