@@ -12,8 +12,10 @@ Atualmente, estou focado na programação backend com Java💻📚☕
 ## Habilidades
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
 
 <!---
 PedroHenriqueph7/PedroHenriqueph7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
