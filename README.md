@@ -2,7 +2,7 @@
  Olá me chamo Pedro Henrique
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniCesumar**.
-- 🌱 Atualmente estou aprimorando minhas habilidades em **Java** e **Spring Boot** e **Banco de Dados**.
+- 🌱 Atualmente estou aprimorando minhas habilidades em **Java**, **Spring Boot** e **Banco de Dados**.
 - 💼 Buscando novas oportunidades para aplicar meu conhecimento em projetos reais e contribuir para a criação de soluções inovadoras.
 
 
