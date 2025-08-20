@@ -3,6 +3,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniCesumar**.
 - 🌱 Atualmente estou aprimorando minhas habilidades em **Java**, **Spring Boot** e **Banco de Dados**.
+- 🔍 Focando em **API Rest** no desenvolvimento **Back End**.
 - 💼 Buscando novas oportunidades para aplicar meu conhecimento em projetos reais e contribuir para a criação de soluções inovadoras.
 
 
@@ -20,4 +21,4 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
