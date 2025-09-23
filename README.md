@@ -1,10 +1,11 @@
 ## Seja Bem Vindo ao meu Github
  Olá me chamo Pedro Henrique
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniCesumar**.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniCesumar** e do **Curso Desenvolvedor Full Stack** no **Senac**.
 - 🌱 Atualmente estou aprimorando minhas habilidades em **Java**, **Spring Boot** e **Banco de Dados**.
 - 🔍 Focando em **API Rest** no desenvolvimento **Back End**.
 - 💼 Buscando novas oportunidades para aplicar meu conhecimento em projetos reais e contribuir para a criação de soluções inovadoras.
+- Aprendendo também Desenvolvimento full Stack com Html, Css, JavaScript e php para o Curso do **SENAC**
 
 
 ### 🌐 Conecte-se comigo
