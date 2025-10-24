@@ -1,11 +1,12 @@
 ## Seja Bem Vindo ao meu Github
  Olá me chamo Pedro Henrique
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniCesumar** e do **Curso Desenvolvedor Full Stack** no **Senac**.
-- 🌱 Atualmente estou aprimorando minhas habilidades em **Java**, **Spring Boot** e **Banco de Dados**.
-- 🔍 Focando em **API Rest** no desenvolvimento **Back End**.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na **UniCesumar**.
+- 🎓 estudante do **Curso Desenvolvedor Full Stack** no **Senac**.
+- 🌱 Foco: Em aplicações backend com **Java**, **Spring Boot** e **Banco de Dados**.
+- 🔍 Desenvolvendo **APIs Rest** no desenvolvimento **Back End**.
 - 💼 Buscando novas oportunidades para aplicar meu conhecimento em projetos reais e contribuir para a criação de soluções inovadoras.
-- Aprendendo também Desenvolvimento full Stack com Html, Css, JavaScript e php para o Curso do **SENAC**
+- 📚 Aprendendo também Desenvolvimento full Stack com Html, Css, JavaScript e php para o Curso do **SENAC**
 
 
 ### 🌐 Conecte-se comigo
@@ -20,6 +21,3 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
