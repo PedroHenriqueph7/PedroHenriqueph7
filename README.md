@@ -6,21 +6,12 @@
 ## 🚀 Sobre Mim
 
 <p>
-  Olá! Sou <strong>Pedro Henrique</strong>, um Desenvolvedor Back-End em formação, atualmente sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.
+  Olá! Sou <strong>Pedro Henrique</strong>, um Desenvolvedor Back-End, formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.
 </p>
 
 <p>
-  Meu principal objetivo é construir APIs e sistemas robustos, escaláveis e eficientes, com foco total no ecossistema <strong>Java</strong> e <strong>Spring Boot</strong>.
+ Atualmente, me especializo em Java e Spring Boot para construção de APIs e sistemas robustos.
 </p>
-
-<ul>
-  <li>🌱 Estou sempre me especializando em Java e no framework Spring para criar aplicações seguras e de alta performance.</li>
-  <li>🗃️ Tenho experiência sólida com bancos de dados relacionais, incluindo <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>MariaDB</strong>.</li>
-  <li>🌐 Possuo conhecimentos em <strong>HTML, CSS e JavaScript</strong>, o que me dá uma visão clara da integração (front-end e back-end).</li>
-  <li>🗂️ Utilizo noções de <strong>gerenciamento de projetos</strong> para manter meus desenvolvimentos organizados e dentro do planejado.</li>
-</ul>
-
-
 
 ## 🛠️ Minha Stack Tecnológica
 
