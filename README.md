@@ -3,7 +3,7 @@
 
 *`Desenvolvedor Back-End | Focado em Java & Spring`*
 
-Olá, me chamo Pedro Henrique, sou estudante curso de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Back-End em Java e Spring Boot. Tenho experiência em bancos de dados relacionais como: (PostgreSQL, MySQL, MariaDB) e já desenvolvi projetos como um sistema de Gerenciamento de Tarefas Domésticas.
+Olá, me chamo Pedro Henrique, sou estudante curso de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Back-End em Java e Spring Boot. Tenho experiência em bancos de dados relacionais como: (PostgreSQL, MySQL, MariaDB) e já desenvolvi projetos como um sistema de "[Gerenciamento de Tarefas Domésticas](https://github.com/PedroHenriqueph7/Gerenciador-tarefas-domesticas-Spring)".
 
 Possuo também conhecimentos em HTML, CSS e JavaScript, o que me permite compreender melhor a integração entre front-end e back-end. Além disso, tenho noções de gerenciamento de projetos, sua importância e aplicando organização e planejamento no desenvolvimento de projetos.
 Atualmente, me especializo em Java e Spring Boot para construção de APIs e sistemas robustos.
