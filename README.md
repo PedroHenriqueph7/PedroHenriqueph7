@@ -1,12 +1,13 @@
 ## Seja Bem Vindo ao meu Github
  Olá me chamo Pedro Henrique
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na **UniCesumar**.
-- 🎓 estudante do **Curso Desenvolvedor Full Stack** no **Senac**.
-- 🌱 Foco: Em aplicações backend com **Java**, **Spring Boot** e **Banco de Dados**.
-- 🔍 Desenvolvendo **APIs Rest** no desenvolvimento **Back End**.
-- 💼 Buscando novas oportunidades para aplicar meu conhecimento em projetos reais e contribuir para a criação de soluções inovadoras.
-- 📚 Aprendendo também Desenvolvimento full Stack com Html, Css, JavaScript e php para o Curso do **SENAC**
+Desenvolvedor Back-End | Focado em Java & Spring
+
+Olá, me chamo Pedro Henrique, sou estudante curso de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Back-End em Java e Spring Boot. Tenho experiência em bancos de dados relacionais como: (PostgreSQL, MySQL, MariaDB) e já desenvolvi projetos como um sistema de Gerenciamento de Tarefas Domésticas.
+
+Possuo também conhecimentos em HTML, CSS e JavaScript, o que me permite compreender melhor a integração entre front-end e back-end. Além disso, tenho noções de gerenciamento de projetos, sua importância e aplicando organização e planejamento no desenvolvimento de projetos.
+
+Atualmente, me especializo em Java e Spring Boot para construção de APIs e sistemas robustos.
 
 
 ### 🌐 Conecte-se comigo
