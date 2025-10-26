@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá! Eu sou o Pedro Henrique 👋</h1>
-  <h3>Desenvolvedor Back-End | Focado em Java & Spring</h3>
+  <h1>Olá! Eu sou o Pedro Henrique</h1>
+  <h3>👨‍💻Desenvolvedor Back-End | Focado em Java & Spring</h3>
 
 
 ## 🚀 Sobre Mim
