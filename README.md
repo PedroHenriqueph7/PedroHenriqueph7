@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  Atualmente, foco no desenvolvimento com <strong>Java</strong> e <strong>Spring Boot</strong> para a construção de APIs REST, sistemas robustos, escaláveis e seguros. Tenho experiência prática com bancos de dados relacionais e testes unitários, além de já ter desenvolvido projetos como um sistema de <em>Gerenciamento de Tarefas Domésticas</em>.
+  Atualmente, foco no desenvolvimento com <strong>Java</strong> e <strong>Spring Boot</strong> para a construção de APIs REST, sistemas robustos, escaláveis e seguros. Tenho experiência prática com bancos de dados relacionais e testes unitários, além de já ter desenvolvido projetos como um sistema de <em>Gerenciamento de Tarefas Domésticas e no atual momento estou desenvolvendo uma Carteira Digital</em>.
 </p>
 
 <p>
