@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  Possuo conhecimento em desenvolvimento Front-End (HTML, CSS, JS) e PHP para o backend na web, o que facilita minha visão sobre a integração completa das aplicações. Também aplico noções de <strong>Gestão de Projetos</strong> para garantir organização e planejamento nas entregas.
+  Possuo conhecimento em desenvolvimento Front-End (HTML, CSS, JS) e PHP para o backend na web, o que facilita minha visão sobre a integração completa das aplicações.
 </p>
 
 <p>
