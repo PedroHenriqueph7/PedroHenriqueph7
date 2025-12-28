@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  Utilizando o <strong>Java</strong> e <strong>Spring Boot</strong> para a construção de APIs REST, criando sistemas robustos, escaláveis e seguros. Na meu desenvolvimento de experiências Backend: Desenvolvi um Sistema de <em>Gerenciamento de Tarefas Domésticas e no atual momento estou desenvolvendo uma Carteira Digital</em>.
+  Utilizando o <strong>Java</strong> e <strong>Spring Boot</strong> para a construção de APIs REST, criando sistemas robustos, escaláveis e seguros. Experiências Backend: Desenvolvi um Sistema de <em>Gerenciamento de Tarefas Domésticas e no atual momento estou desenvolvendo uma Carteira Digital</em>.
 </p>
 
 <p>
