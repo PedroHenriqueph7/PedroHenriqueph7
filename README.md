@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  Também possuo conhecimento em desenvolvimento FullStack com HTML, CSS, JS e PHP para web, o que facilita minha visão sobre a integração completa das aplicações. Com experiência na participação na criação de um <em><a href="https://github.com/PedroHenriqueph7/e-commece-pronto-saudavel-todos-os-dias" target="_blank">Ecommerce</a></em> para o ramo alimentício.
+  Também possuo conhecimento em desenvolvimento FullStack com HTML, CSS, JS e PHP para web, o que facilita minha visão sobre a integração completa das aplicações. Com experiência na participação do desenvolvimento de um <em><a href="https://github.com/PedroHenriqueph7/e-commece-pronto-saudavel-todos-os-dias" target="_blank">Ecommerce</a></em> para o ramo alimentício.
 </p>
 
 ---
