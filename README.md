@@ -10,11 +10,11 @@
 </p>
 
 <p>
-  Utilizando o <strong>Java</strong> e <strong>Spring Boot</strong> para a construção de APIs REST, criando sistemas robustos, escaláveis e seguros. Tenho experiência prática com bancos de dados relacionais e testes unitários, além de já ter desenvolvido projetos como um sistema de <em>Gerenciamento de Tarefas Domésticas e no atual momento estou desenvolvendo uma Carteira Digital</em>.
+  Utilizando o <strong>Java</strong> e <strong>Spring Boot</strong> para a construção de APIs REST, criando sistemas robustos, escaláveis e seguros. Na meu desenvolvimento de experiências Backend: Desenvolvi um Sistema de <em>Gerenciamento de Tarefas Domésticas e no atual momento estou desenvolvendo uma Carteira Digital</em>.
 </p>
 
 <p>
-  Também possuo conhecimento em desenvolvimento Front-End com HTML, CSS, JS e PHP para o backend na web, o que facilita minha visão sobre a integração completa das aplicações.
+  Também possuo conhecimento em desenvolvimento FullStack com HTML, CSS, JS e PHP para web, o que facilita minha visão sobre a integração completa das aplicações.
 </p>
 
 <p>
