@@ -10,11 +10,11 @@
 </p>
 
 <p>
-  Utilizando <strong>Java</strong> e <strong>Spring Boot</strong> para a construção de aplicações Backend. Com a finalidade de garantir segurança, performance, e boa experiência do usuario nas minhas aplicações. Experiências Backend: Desenvolvimento do Sistema de <em>Gerenciamento de Tarefas Domésticas e no atual momento estou desenvolvendo uma Carteira Digital</em>.
+  Utilizando <strong>Java</strong> e <strong>Spring Boot</strong> para a construção de aplicações Backend. Com a finalidade de garantir segurança, performance, e boa experiência do usuario nas minhas aplicações. Experiências Backend: Desenvolvimento do Sistema de <a href="https://github.com/PedroHenriqueph7/simple-bank-api" target="_blank">Gerenciamento de Tarefas Domésticas</a></em> e no atual momento estou desenvolvendo uma <em><a href="https://github.com/PedroHenriqueph7/simple-bank-api" target="_blank">Carteira Digital</a></em>.
 </p>
 
 <p>
-  Também possuo conhecimento em desenvolvimento FullStack com HTML, CSS, JS e PHP para web, o que facilita minha visão sobre a integração completa das aplicações.
+  Também possuo conhecimento em desenvolvimento FullStack com HTML, CSS, JS e PHP para web, o que facilita minha visão sobre a integração completa das aplicações. Com experiência na participação na criação de um <em><a href="https://github.com/PedroHenriqueph7/e-commece-pronto-saudavel-todos-os-dias" target="_blank">Ecommerce</a></em> para o ramo alimentício.
 </p>
 
 ---
