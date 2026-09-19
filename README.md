@@ -6,7 +6,7 @@
 ## 🚀 Sobre Mim
 
 <p>
-  Olá! Sou <strong>Pedro Henrique</strong>, formado em <strong>Análise e Desenvolvimento de Sistemas</strong> estudo com foco em desenvolvimento Back-End. atualmente faço um segundo tecnólogo em Sistemas Para Internet estou estagiando na Cielo uma empresa do meio de pagamentos no setor de Engenharia de Software
+  Olá! Sou <strong>Pedro Henrique</strong>, formado em <strong>Análise e Desenvolvimento de Sistemas</strong> estudo com foco em desenvolvimento Back-End. atualmente faço um segundo tecnólogo em Sistemas Para Internet no SENAC e estou estagiando na Cielo uma empresa do meio de pagamentos no setor de Engenharia de Software
 </p>
 
 <p>
