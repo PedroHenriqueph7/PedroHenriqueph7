@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    <b>Engenharia de Software Backend | Automação de Testes (QA) | Cloud</b>
+    <b>Engenheiro de Software Backend | Automação de Testes (QA) | Cloud</b>
   </p>
   <p>
     Foco no ecossistema Java, arquiteturas escaláveis, conteinerização e garantia de qualidade rigorosa.
@@ -32,12 +32,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-### 📊 Analytics do GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueph7&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/PedroHenriqueph7)
-
-
-</div>
