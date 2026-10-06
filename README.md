@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=250&section=header&text=Engenheiro%20de%20Software%20Backend&desc=Automa%C3%A7%C3%A3o%20de%20Testes%20(QA)%20%7C%20Cloud&fontSize=38&descSize=22&animation=fadeIn" alt="Header" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=250&section=header&text=Engenheiro%20de%20Software%20Backend&desc=Automa%C3%A7%C3%A3o%20de%20Testes%20(QA)%20%7C%20Cloud&fontSize=38&fontColor=ffffff&descSize=22&descColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
 
 <div align="center">
@@ -17,9 +17,10 @@
 #### Backend, Cloud, DevOps & IA
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
 <img src="https://img.shields.io/badge/IA%20%26%20GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA & GenAI"/>
 
